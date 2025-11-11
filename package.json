@@ -6,10 +6,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "jsonwebtoken": "^9.0.2",
-    "uuid": "^9.0.1",
-    "ws": "^8.18.3"
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
   }
 }
